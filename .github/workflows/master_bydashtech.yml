@@ -62,4 +62,4 @@ jobs:
           app-name: 'bydashtech'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D2F9F1E7C63C4511BE2698B9F2246813 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C7822FC3B67406CB96C48398F509906 }}
